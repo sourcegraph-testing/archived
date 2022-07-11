@@ -1,2 +1,2 @@
 # archived
-This repository is archived. Mind the spiderwebs.
+This repository is archived. Mind the spiderwebs. 🕸️
